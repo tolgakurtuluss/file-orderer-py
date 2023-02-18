@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Define the path to the documents folder
-documents_path = "Q:/Users/t_kurtulus1/Downloads"
+documents_path = "YOURDEFINEDPATH"
 
 # Define the categories and their corresponding file extensions
 categories = {
